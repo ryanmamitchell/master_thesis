@@ -1,0 +1,19 @@
+﻿dataset,method,metric,value
+1,twfe,rmse,3.693
+1,twfe,bias,-2.781
+1,twfe,comp time,0.622
+1,knn,rmse,14.965
+1,knn,bias,-14.7
+1,knn,comp time,1.573
+1,dml,rmse,3.851
+1,dml,bias,-2.364
+1,dml,comp time,0.647
+1,cf,rmse,10.622
+1,cf,bias,0.317
+1,cf,comp time,5.371
+1,nn,rmse,2.596
+1,nn,bias,-0.27
+1,nn,comp time,27.53
+1,gan,rmse,4.065
+1,gan,bias,-3.189
+1,gan,comp time,3.965
